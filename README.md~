@@ -11,4 +11,4 @@ This set of Matlab codes reproduce the experimental results in our paper:
 > min_{q,x} 1/2*||Y*q - x||_2^2 + lambda * ||x||_1, s.t. ||q||_2 = 1 
 
 ### Contact
-Codes written by Qing Qu, Qing Qu, and John Wright. Questions or bug reports please send email to Qing Qu, qingqu87@gmail.com
+Codes written by Qing Qu, Ju Sun, and John Wright. Questions or bug reports please send email to Qing Qu, qingqu87@gmail.com
