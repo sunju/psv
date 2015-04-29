@@ -1,6 +1,6 @@
 # Summary 
 This set of Matlab codes reproduce the experimental results in our paper: 
-> **Finding a Sparse Vector in a Subspace: Linear Sparsity using Alternating Directions** 
+> **Finding a Sparse Vector in a Subspace: Linear Sparsity using Alternating Directions**   
 > Qing Qu, Ju Sun, and John Wright. In Advances in Neural Information Processing Systems (NIPS), 2014. Full version on arXiv: http://arxiv.org/abs/1412.4659
 
 ### Descriptions
